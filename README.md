@@ -1,4 +1,4 @@
-
+克隆 https://github.com/chongshengB/rt-n56u.git
 20190831更新内容:
 增加adbyby plus+ 单独内网IP控制过滤模式。
 
@@ -40,7 +40,7 @@ pkg-config zlib1g-dev libgmp3-dev libmpc-dev libmpfr-dev libncurses5-dev libltdl
 ```
 * 克隆源码
 ```shell
-git clone --depth=1 https://github.com/chongshengB/rt-n56u.git /opt/rt-n56u
+git clone --depth=1 https://github.com/likexi/hello /opt/rt-n56u
 #git clone --depth=1 https://gitee.com/bkye/rt-n56u.git /opt/rt-n56u
 ```
 * 编译工具链
